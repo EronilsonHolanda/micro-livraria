@@ -23,5 +23,3 @@ message ProductResponse {
 message ProductsResponse {
     repeated ProductResponse products = 1;
 }
-
-
